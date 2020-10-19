@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492165340119",
+    "firebase_url": "https://travel-d4628.firebaseio.com",
+    "project_id": "travel-d4628",
+    "storage_bucket": "travel-d4628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492165340119:android:34f0f5f8d4003f10408992",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492165340119-r5809hlf9qvpfpi5e0sjnek5uiquelum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQdu46GF2ApJy9GMC_JKRNN3j4npPLElY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492165340119-r5809hlf9qvpfpi5e0sjnek5uiquelum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
